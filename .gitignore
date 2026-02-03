@@ -1,0 +1,12 @@
+# Dependencias (NUNCA se suben)
+node_modules/
+package-lock.json
+
+# Configuración y Secretos
+.env
+
+# Logs y Temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
